@@ -8,7 +8,7 @@
 
 ## How to run:
 - Command line instruction to compile program:
--- javac Project2.java Customer.java PostalWorker.java
+  - javac Project2.java Customer.java PostalWorker.java
 
 - Command line instruction to run program:
--- java Project2
+  - java Project2
